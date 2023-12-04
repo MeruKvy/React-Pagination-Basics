@@ -1,0 +1,18 @@
+.posts__wrapper {
+  width: 1280px;
+  margin: auto;
+  justify-content: center;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+
+}
+
+.posts {
+  width: 100%;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 24px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}

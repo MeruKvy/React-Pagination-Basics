@@ -1,0 +1,11 @@
+img {
+    width: 42px;
+    height: 42px;
+    cursor: pointer;
+}
+
+.Navigation {
+    display: flex;
+    border: 1px solid black;
+    align-items: center;
+}
